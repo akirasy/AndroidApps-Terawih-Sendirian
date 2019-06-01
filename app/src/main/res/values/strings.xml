@@ -1,19 +1,20 @@
 <resources>
-    <string name="app_name">Terawih Sendirian (Beta)</string>
-    <string name="start">start</string>
-    <string name="next">next</string>
-    <string name="back">back</string>
-    <string name="quit">quit</string>
-    <string name="now">Sekarang :</string>
-    <string name="selawat_mula">Selawat sebelum memulakan terawih</string>
-    <string name="text_8_rakaat">Terawih 8 Rakaat</string>
-    <string name="text_terawih_2">Solat Terawih Rakaat 1 dan 2</string>
-    <string name="text_terawih_4">Solat Terawih Rakaat 3 dan 4</string>
-    <string name="text_terawih_6">Solat Terawih Rakaat 5 dan 6</string>
-    <string name="text_terawih_8">Solat Terawih Rakaat 7 dan 8</string>
-    <string name="text_selawat_2">Selawat dan doa selepas terawih 2 rakaat</string>
-    <string name="text_selawat_4">Selawat dan doa selepas terawih 4 rakaat</string>
-    <string name="text_selawat_6">Selawat dan doa selepas terawih 6 rakaat</string>
-    <string name="text_selawat_8">Selawat dan doa selepas terawih 8 rakaat</string>
+    <string name="app_name">Terawih Sendirian</string>
+
+    <string name="mulakan_solat_terawih">Mulakan solat terawih</string>
+    <string name="hadis">Hadis</string>
+    <string name="rakaat_8">8 rakaat</string>
+    <string name="rakaat_20">20 rakaat</string>
+
+    <string name="nav_home">Home</string>
+    <string name="nav_next">Next</string>
+    <string name="nav_back">Back</string>
+
+    <string name="now_selawat">Sekarang: Selawat sebelum memulakan solat terawih</string>
+    <string name="now_terawih2">Sekarang: Solat terawih 2 rakaat dan selawat</string>
+    <string name="now_terawih4">Sekarang: Solat terawih 4 rakaat dan selawat</string>
+    <string name="now_terawih6">Sekarang: Solat terawih 6 rakaat dan selawat</string>
+    <string name="now_terawih8">Sekarang: Solat terawih 8 rakaat dan selawat</string>
+
 
 </resources>

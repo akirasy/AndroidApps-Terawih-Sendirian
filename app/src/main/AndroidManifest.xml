@@ -1,41 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.terawihsendirianbeta">
+    package="com.urbanmusleem.terawihsendirian">
 
     <application
         android:allowBackup="true"
-        android:icon="@mipmap/ic_launcher"
+        android:icon="@drawable/ic_break_fast"
         android:label="@string/app_name"
-        android:roundIcon="@mipmap/ic_launcher_round"
+        android:roundIcon="@drawable/ic_break_fast"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
+
         <activity
-            android:name=".Selawat8Activity"
-            android:screenOrientation="landscape"></activity>
-        <activity
-            android:name=".Rakaat8Activity"
-            android:screenOrientation="landscape"/>
-        <activity
-            android:name=".Selawat6Activity"
-            android:screenOrientation="landscape"/>
-        <activity
-            android:name=".Rakaat6Activity"
-            android:screenOrientation="landscape"/>
-        <activity
-            android:name=".Selawat4Activity"
-            android:screenOrientation="landscape"/>
-        <activity
-            android:name=".Rakaat4Activity"
-            android:screenOrientation="landscape"/>
-        <activity
-            android:name=".Selawat2Activity"
+            android:name=".SelawatActivity"
             android:screenOrientation="landscape" />
         <activity
-            android:name=".Rakaat2Activity"
+            android:name=".Terawih2Activity"
             android:screenOrientation="landscape" />
         <activity
-            android:name=".SelawatMulaActivity"
+            android:name=".Terawih4Activity"
             android:screenOrientation="landscape" />
+        <activity
+            android:name=".Terawih6Activity"
+            android:screenOrientation="landscape" />
+        <activity
+            android:name=".Terawih8Activity"
+            android:screenOrientation="landscape" />
+
+
         <activity android:name=".MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
